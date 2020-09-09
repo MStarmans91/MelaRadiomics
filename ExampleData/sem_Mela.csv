@@ -1,0 +1,11 @@
+Patient,calcification_Solid,subtlety (1-extreme - 5-obvious),segmentation,lobulation (1-marked - 5-none),texture (1-nonsolid - 5-solid),calcification_Laminated,internal structure_Fat,malignancy (1-highly unlikely - 5-highly suspicious),calcification_Central,calcification_Popcorn,calcification_Absent,internal structure_Soft tissue,margin (1-poorly defined - 5-sharp),spiculation (1-marked - 5-none),internal structure_Fluid,internal structure_Air,calcification_Non-central,sphericity (1-linear - 5-round)
+MelaRadiomics-001,-1,5,1,5,5,-1,-1,5,-1,-1,1,1,5,5,-1,-1,-1,3
+MelaRadiomics-002,0,1,0,1,1,0,0,1,0,0,0,0,1,1,0,0,0,1
+MelaRadiomics-003,0,5,1,4,5,0,0,5,0,0,1,1,4,5,0,0,0,4
+MelaRadiomics-004,0,5,1,4,5,0,0,5,0,0,1,1,5,5,0,0,0,5
+MelaRadiomics-005,-1,5,1,4,5,-1,-1,5,-1,-1,1,1,5,5,-1,-1,-1,4
+MelaRadiomics-006,0,5,1,5,5,0,0,5,0,0,1,1,5,5,0,0,0,4
+MelaRadiomics-007,0,5,0,5,5,0,0,5,0,0,1,1,3,5,0,0,0,4
+MelaRadiomics-008,0,5,0,4,5,0,0,5,0,0,1,1,5,5,0,0,0,4
+MelaRadiomics-009,0,5,1,5,5,0,0,2,0,0,1,1,3,5,0,0,0,1
+MelaRadiomics-010,0,5,1,4,1,0,0,5,0,0,1,1,4,5,0,0,0,3

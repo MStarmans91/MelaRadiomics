@@ -1,0 +1,11 @@
+Patient	BRAF
+MelaRadiomics-001	1
+MelaRadiomics-002	1
+MelaRadiomics-003	1
+MelaRadiomics-004	1
+MelaRadiomics-005	1
+MelaRadiomics-006	0
+MelaRadiomics-007	0
+MelaRadiomics-008	0
+MelaRadiomics-009	0
+MelaRadiomics-010	0
