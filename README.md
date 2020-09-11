@@ -6,14 +6,10 @@ familiar with the WORC package through the WORC tutorial:
 https://github.com/MStarmans91/WORCTutorial.
 
 ## Installation
-For the feature extraction, only the PREDICT package, at least version 3.1.10,
-and the subsequent dependencies are required, which can be installed through pip:
+For both the feature extraction and model optimization, WORC, version 3.3.3,
+is required:
 
-    pip install "PREDICT>=3.1.10"
-
-For the model optimization, additionally WORC, version 3.3.2, is required:
-
-    pip install "WORC==3.3.2"
+    pip install "WORC==3.3.3"
 
 ## Usage: Feature Extraction
 The ExtractFeatures.py script can be used to extract all features. We provided
