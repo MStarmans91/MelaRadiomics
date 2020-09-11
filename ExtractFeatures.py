@@ -32,11 +32,11 @@ PREDICT.CalcFeatures.CalcFeatures(image=image, segmentation=segmentation,
 # Extract pyradiomics features
 cmd = [
     'pyradiomics',
-    image,
-    segmentation,
-    '--param', config_pyradiomics,
+    '"' + image + '"',
+    '"' + segmentation + '"',
+    '--param', '"' + config_pyradiomics + '"',
     '--format', 'csv',
-    '--out', output_pyradiomics
+    '--out', '"' + output_pyradiomics + '"'
     ]
 
 output = subprocess.check_output(cmd)

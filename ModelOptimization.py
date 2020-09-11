@@ -66,3 +66,7 @@ network.configs.append(config)
 network.build()
 network.set()
 network.execute()
+
+# NOTE: if you want extensive evaluation including ROC curves, statistical
+# testing of features, add ``network.add_evaluation('GIST')'' after
+# network.build().
