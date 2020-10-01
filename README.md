@@ -34,6 +34,14 @@ Note that the script performs a dummy experiment: it supplies 10x the example
 features to WORC, which will result in non-separable dataset, and thus no
 sensible model. Usage of your own data is therefore highly recommended.
 
+## Hyperparameter values of best workflows
+For each of the five models described in the paper, in the SelectedWorkflows
+folder, .csv files with the values of the hyperparameters for the top 50
+performing workflows as included in the ensemble are used. As some
+hyperparameters are fixed in the default options of the WORC package,
+there are files including the values for all hyperparameters and only those
+with more than one unique value.
+
 ## Known Issues
 For some of the known issues, please visit the WORC FAQ:
 https://worc.readthedocs.io/en/latest/static/faq.html.
