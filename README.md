@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4644067.svg)](https://doi.org/10.5281/zenodo.4644067)
 
 # MelaRadiomics
-Script to compute the features used in the paper "The BRAF p.V600E mutation of melanoma lung metastases cannot be discriminated on computed tomography through visual scoring or radiomics and machine learning." L. Angus, M. P. A. Starmans et al.
+Script to compute the features used in the paper "The BRAF P.V600E Mutation Status of Melanoma Lung Metastases Cannot Be Discriminated on Computed Tomography by LIDC Criteria nor Radiomics Using Machine Learning." by L. Angus and M. P. A. Starmans et al. 2021.
 
 Before trying out the code in this repository, we advice you to get
 familiar with the WORC package through the WORC tutorial:
@@ -13,9 +13,9 @@ This package is covered by the open source [APACHE 2.0 License](APACHE-LICENSE-2
 When using this code, please cite this repository and the corresponding paper
 as following:
 
-``Martijn P.A. Starmans. MelaRadiomics. Zenodo (2021). Available from:  https://github.com/MStarmans91/MelaRadiomics, DOI: https://doi.org/10.5281/zenodo.4644067.``
+``Starmans, M.P.A. MelaRadiomics. Zenodo (2021). Available from: https://github.com/MStarmans91/MelaRadiomics, DOI: https://doi.org/10.5281/zenodo.4644067.``
 
-``Angus, L.; Starmans, M.P.A.; Rajicic, A.; Odink, A.E.; Jalving, M.; Niessen, W.J.; Visser, J.J.; Sleijfer, S.; Klein, S.; van der Veldt, A.A.M. The BRAF P.V600E Mutation Status of Melanoma Lung Metastases Cannot Be Discriminated on Computed Tomography by LIDC Criteria Nor Radiomics Using Machine Learning. 2021, 11, x. https://doi.org/10.3390/xxxxx``
+``Angus, L.; Starmans, M.P.A.; Rajicic, A.; Odink, A.E.; Jalving, M.; Niessen, W.J.; Visser, J.J.; Sleijfer, S.; Klein, S.; van der Veldt, A.A.M. The BRAF P.V600E Mutation Status of Melanoma Lung Metastases Cannot Be Discriminated on Computed Tomography by LIDC Criteria nor Radiomics Using Machine Learning. J. Pers. Med. 2021, 11, 257. https://doi.org/10.3390/jpm11040257. ``
 
 
 ## Installation
