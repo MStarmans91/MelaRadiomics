@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4644067.svg)](https://doi.org/10.5281/zenodo.4644067)
 
 # MelaRadiomics
-Script to compute the features used in the paper "The BRAF P.V600E Mutation Status of Melanoma Lung Metastases Cannot Be Discriminated on Computed Tomography by LIDC Criteria nor Radiomics Using Machine Learning." by L. Angus and M. P. A. Starmans et al. 2021.
+Scripts to compute the radiomics features and fit the machine learning models as presented in the paper "The BRAF P.V600E Mutation Status of Melanoma Lung Metastases Cannot Be Discriminated on Computed Tomography by LIDC Criteria nor Radiomics Using Machine Learning." by L. Angus and M. P. A. Starmans et al. 2021.
 
 Before trying out the code in this repository, we advice you to get
 familiar with the WORC package through the WORC tutorial:
